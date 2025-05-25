@@ -1,1 +1,3 @@
-https://github.com/najwazmri/najwazmri.github.io
+cd najwazmri.github.io
+
+echo "Hello World" > index.html
